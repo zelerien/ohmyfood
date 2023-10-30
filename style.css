@@ -477,8 +477,10 @@ img {
 }
 
 .heart_toggle {
-    position: relative;
+    position: absolute;
     margin: 20px;
+    top: 71%;
+    right: 20px;
 }
 
 .hide_checkbox {
